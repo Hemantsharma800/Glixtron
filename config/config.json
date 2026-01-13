@@ -1,0 +1,18 @@
+{
+    "app": {
+        "name": "Glixtron",
+        "version": "1.0.0",
+        "environment": "production"
+    },
+    "deployment": {
+        "platform": "GitHub Pages",
+        "url": "https://hemantsharma800.github.io/Glixtron",
+        "autoDeploy": true
+    },
+    "features": {
+        "dashboard": true,
+        "analytics": true,
+        "monitoring": true,
+        "security": true
+    }
+}

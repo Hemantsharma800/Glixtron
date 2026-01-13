@@ -1,0 +1,15 @@
+{
+  "name": "glixtron",
+  "version": "1.0.0",
+  "description": "Enterprise Dashboard & Deployment Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "deploy": "gh-pages -d ."
+  },
+  "author": "Hemant Sharma",
+  "license": "MIT",
+  "homepage": "https://hemantsharma800.github.io/Glixtron",
+  "dependencies": {},
+  "devDependencies": {}
+}
